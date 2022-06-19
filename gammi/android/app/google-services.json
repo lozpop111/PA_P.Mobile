@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "979008711418",
+    "project_id": "gammi-food-28638",
+    "storage_bucket": "gammi-food-28638.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979008711418:android:127aeab5e432f319dcb743",
+        "android_client_info": {
+          "package_name": "com.example.gammi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979008711418-4f7eoj91dnlr52av2cha628n4vgm81ke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdLwt7dbgG6E3YPrOFCNXvEcg_j8XlTqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979008711418-4f7eoj91dnlr52av2cha628n4vgm81ke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
